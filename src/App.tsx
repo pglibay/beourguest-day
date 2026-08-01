@@ -42,7 +42,7 @@ export default function App() {
       </main>
 
       <footer className="footer">
-        <p>beourguest &middot; made with care, for hosts and guests everywhere.</p>
+        <p>All rights reserved &copy; 2026</p>
       </footer>
     </div>
   )
